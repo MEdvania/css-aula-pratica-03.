@@ -1,0 +1,38 @@
+.p1{
+    font-style: italic;
+    text-transform:uppercase;
+}
+
+.p2{
+    font-style: italic;
+}
+
+.p3{
+    font-style: italic;
+}
+
+.p4{
+    font-style: italic;
+}
+
+fieldset{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMcmFNe9Lq37qEmryCMggTmirA7v5JkkRjhQ&usqp=CAU);
+}
+
+h1 {
+    background-color: rgb(231, 122, 71);
+}
+
+label{
+    
+    font-style:italic;
+    background-color: rgb(231, 122, 71);
+
+}
